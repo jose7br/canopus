@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "kanopus-prod",
+    "prod": "kanopus-prod",
+    "dev": "kanopus-prod"
+  },
+  "targets": {},
+  "etags": {}
+}
